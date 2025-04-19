@@ -42,13 +42,6 @@ address {
 }
 
 .header_address-align {
-    max-width: 240px;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 24.3px;
-    font-family: 'Raleway', sans-serif;
-    font-style: normal;
-    text-decoration: none;
     justify-self: end;
 }
 
@@ -219,7 +212,8 @@ address {
 .about_logo {
     width: 240px;
     height: 240px;
-    margin-top: 40px;
+    margin-top: 35px;
+    margin-right: 30px;
     justify-self: center;
     border-radius: 50%;
     background-color: black;
@@ -252,7 +246,7 @@ address {
     margin-top: 24px;
 }
 
-footer {
+.footer {
     width: 1100px;
     margin-top: 180px;
     padding-left: 50px;
